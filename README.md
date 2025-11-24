@@ -4,8 +4,16 @@
 🎓 Engineering student diving deeper into **Frontend + Full-Stack Development**.  
 🔧 Always exploring new technologies and improving my craft.  
 🤝 Open to collaboration, learning, and contributing to real-world projects.
-
 ✨ **Fun Fact - I break things… But I also fix them 😄**
+
+---
+
+## 🚀 Current Focus
+
+- Building real-world projects  
+- Leveling up in **Next.js**, **TypeScript**, and **React Query**  
+- Practicing DSA to prepare for placements  
+- Creating aesthetic UI + performant apps
 
 ---
 
@@ -48,15 +56,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetanand628&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-## 🚀 Current Focus
-
-- Building real-world projects  
-- Leveling up in **Next.js**, **TypeScript**, and **React Query**  
-- Practicing DSA to prepare for placements  
-- Creating aesthetic UI + performant apps  
 
   
 
