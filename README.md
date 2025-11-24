@@ -3,8 +3,9 @@
 🚀 A passionate developer focused on building clean, fast, and user-friendly web applications.  
 🎓 Engineering student diving deeper into **Frontend + Full-Stack Development**.  
 🔧 Always exploring new technologies and improving my craft.  
-🤝 Open to collaboration, learning, and contributing to real-world projects.
+🤝 Open to collaboration, learning, and contributing to real-world projects.  
 ✨ **Fun Fact - I break things… But I also fix them 😄**
+
 
 ---
 
