@@ -85,7 +85,7 @@
 ### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,aws"/>
 </p>
 
 ---
@@ -116,138 +116,126 @@
 
 ---
 
-# 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
+
+<br>
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-## 📰 Next News
+### 📰 Next News
 
-A modern **MERN Stack Community News Platform**
+**Full Stack Community News Platform**
 
-### ✨ Features
+A modern MERN application that combines real-time news with a community platform featuring authentication, bookmarking, search, and user-generated content.
 
-- JWT Authentication
-- Community Posts
-- News API Integration
-- Profile Management
-- Bookmark System
-- Image Upload
-- Advanced Search
-- Responsive UI
+#### ✨ Highlights
 
-### 🛠 Tech
+- 🔐 JWT Authentication
+- 📰 News API Integration
+- 👥 Community Posts
+- ❤️ Bookmarks
+- 🔍 Smart Search
+- 📱 Responsive Design
 
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-`JWT`
-`Tailwind CSS`
+#### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+
+<br>
+
+<a href="YOUR_NEXTNEWS_DEMO">
+<img src="https://img.shields.io/badge/🌐 Live Demo-8A2BE2?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_NEXTNEWS_REPO">
+<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetanand628&repo=NextNews&theme=tokyonight"/>
+### 🤖 AI Coding Assistant
+
+**AI Powered Developer Tool**
+
+Generate, explain, and debug code using Google's Gemini model with an intuitive modern interface.
+
+#### ✨ Highlights
+
+- 💡 Code Generation
+- 🐞 Code Debugging
+- 📖 Code Explanation
+- 📝 Recent Activity
+- ⚡ Fast Responses
+- 🎯 Clean UI
+
+#### 🛠 Tech Stack
+
+![Next](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+
+<br>
+
+<a href="YOUR_AI_DEMO">
+<img src="https://img.shields.io/badge/🌐 Live Demo-8A2BE2?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_AI_REPO">
+<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎬 Binge Box
+
+**Movie Discovery Platform**
+
+Search thousands of movies and TV shows with a clean, responsive interface powered by the OMDb API.
+
+#### ✨ Highlights
+
+- 🎥 Movie Search
+- ⭐ Trending Titles
+- 📱 Responsive UI
+- 🔄 Dynamic Routing
+- 💳 Razorpay
+- ⚡ Fast Loading
+
+#### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+![Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter)
+![OMDb](https://img.shields.io/badge/OMDb_API-blue?style=flat-square)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2440?style=flat-square)
+
+<br>
+
+<a href="YOUR_BINGEBOX_DEMO">
+<img src="https://img.shields.io/badge/🌐 Live Demo-8A2BE2?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_BINGEBOX_REPO">
+<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge"/>
+</a>
 
 </td>
 
 </tr>
-
 </table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 AI Coding Assistant
-
-An AI-powered coding platform using **Gemini API**
-
-### ✨ Features
-
-- Code Generation
-- Code Explanation
-- Code Debugging
-- Recent Activity
-- Modern Dashboard
-
-### 🛠 Tech
-
-`Next.js`
-
-`React`
-
-`TypeScript`
-
-`Gemini API`
-
-`Tailwind CSS`
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetanand628&repo=AI-Coding-Assistant&theme=tokyonight"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🎬 Binge Box
-
-Responsive Movie Discovery Platform
-
-### ✨ Features
-
-- OMDb API
-- Movie Search
-- Dynamic Routing
-- Responsive UI
-- Razorpay Integration
-
-### 🛠 Tech
-
-`React`
-
-`Tailwind`
-
-`React Router`
-
-`OMDb API`
-
-`Razorpay`
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetanand628&repo=Binge-Box&theme=tokyonight"/>
-
-</td>
-
-</tr>
-
-</table>
-
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
