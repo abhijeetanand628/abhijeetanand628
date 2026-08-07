@@ -236,7 +236,6 @@ Search thousands of movies and TV shows with a clean, responsive interface power
 
 </tr>
 </table>
----
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
