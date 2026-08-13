@@ -150,11 +150,11 @@ A modern MERN application that combines real-time news with a community platform
 
 <br>
 
-<a href="YOUR_NEXTNEWS_DEMO">
+<a href="https://next-news-mern.vercel.app/">
 <img src="https://img.shields.io/badge/🌐 Live Demo-8A2BE2?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_NEXTNEWS_REPO">
+<a href="https://github.com/abhijeetanand628/Next-News-MERN">
 <img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge"/>
 </a>
 
@@ -187,11 +187,11 @@ Generate, explain, and debug code using Google's Gemini model with an intuitive 
 
 <br>
 
-<a href="YOUR_AI_DEMO">
+<a href="https://ai-coding-assistant-delta.vercel.app/">
 <img src="https://img.shields.io/badge/🌐 Live Demo-8A2BE2?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_AI_REPO">
+<a href="https://github.com/abhijeetanand628/AI-Coding-Assistant">
 <img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge"/>
 </a>
 
@@ -224,11 +224,11 @@ Search thousands of movies and TV shows with a clean, responsive interface power
 
 <br>
 
-<a href="YOUR_BINGEBOX_DEMO">
+<a href="https://bingebox-xi.vercel.app/">
 <img src="https://img.shields.io/badge/🌐 Live Demo-8A2BE2?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_BINGEBOX_REPO">
+<a href="https://github.com/abhijeetanand628/Binge-Box-React">
 <img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge"/>
 </a>
 
